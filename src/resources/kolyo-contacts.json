@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "linkName": "00359 896633150 ",
+      "link": "https://www.linkedin.com/in/kolyo-peev-b1459972/",
+      "alt": "kolyo's LinkedIn",
+      "icon": "phone"
+    },
+    {
+      "id": "2",
+      "linkName": "kolyo.peev@gmail.com",
+      "link": "https://github.com/kuliuzz",
+      "alt": "kolyo's GitHub",
+      "icon": "mail"
+    },
+    {
+      "id": "3",
+      "linkName": "LinkedIn",
+      "link": "https://www.linkedin.com/in/kolyo-peev-b1459972/",
+      "alt": "kolyo's LinkedIn",
+      "icon": "linkedin"
+    },
+    {
+      "id": "4",
+      "linkName": "GitHub",
+      "link": "https://github.com/kuliuzz",
+      "alt": "kolyo's GitHub",
+      "icon": "github"
+    },
+    {
+      "id": "5",
+      "linkName": "Instagram",
+      "link": "https://www.instagram.com/kuliuzz/",
+      "alt": "kolyo's Instagram",
+      "icon": "instagram"
+    }
+  ]
+}

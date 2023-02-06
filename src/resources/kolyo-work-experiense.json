@@ -1,0 +1,117 @@
+{
+  "experience": [
+    {
+      "id": "1",
+      "companyName": "Open Web Creations",
+      "contractSpan": "August 2017 – September 2018",
+      "location": "Sofia, Bulgaria (NU Boyana Film Studios)",
+      "position": "Junior Web Developer",
+      "summary": "The goal of the project was to develop WordPress websites and coresponding mobile applications for a company in the film industry. Helped in total for 4 websites and 32 apps.",
+      "workDetails": [
+        "Helped developed 4 websites",
+        "Helped developed 36 mobile apps in exotic languages"
+      ],
+      "techAndTools": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "jQuery",
+        "Android Studio",
+        "PhoneGap",
+        "HTML",
+        "CSS",
+        "Heidi SQL",
+        "Git"
+      ]
+    },
+    {
+      "id": "2",
+      "companyName": "DXC Technology Bulgaria",
+      "contractSpan": "September 2018 - August 2019",
+      "location": "Sofia, Bulgaria (Sofia Business Park)",
+      "position": "Junior Web Developer",
+      "summary": "The project was related to the canadian banking industry. The main goal of the project was to develop and extend the React applications that worked in SharePoint using available resources such as CSV files and documents to make information for users more accessible.",
+      "workDetails": [
+        "Helped develop React time tracking app hosted on Sharepoint website",
+        "Helped develop React file management app hosted on Sharepoint website",
+        "Supported existing solutions",
+        "Extended the features of existing apps",
+        "Created the design of new apps"
+      ],
+      "techAndTools": [
+        "React.js",
+        "SCSS",
+        "Microsoft SharePoint",
+        "JavaScript",
+        "Git",
+        "CSV",
+        "Scrum Metodology"
+      ]
+    },
+    {
+      "id": "3",
+      "companyName": "Extreme Consulting",
+      "contractSpan": "August 2019 - February 2022",
+      "location": "Sofia, Bulgaria and (Remote from Gabrovo, Bulgaria)",
+      "position": "Front-End Developer",
+      "summary": "One of the bigger projects I was involved in was about redesigning a major Bulgarian bank's website and extending current capabilities. Worked closely with back-end developers, designers and client representatives on a daily basis. Another big project I worked on was for the development of a video training platform for dog owners.",
+      "workDetails": [
+        "Helped develop React time tracking app hosted on Sharepoint website",
+        "Helped develop React file management app hosted on Sharepoint website",
+        "Supported existing solutions",
+        "Extended the features of existing apps",
+        "Created the design of new apps"
+      ],
+      "techAndTools": [
+        "React.js v14",
+        "Next,js",
+        "React-Router",
+        "Redux",
+        "SCSS",
+        "Bootstrap",
+        "jQuery",
+        "JavaScript",
+        "Charts.js",
+        "GSAP",
+        "Sitefinity CMS",
+        "NVM",
+        "NPM",
+        "JSON",
+        "Git",
+        "Scrum Metodology",
+        "Accessibility Principles",
+        "Figma",
+        "Zeplin.io"
+      ]
+    },
+    {
+      "id": "4",
+      "companyName": "Coherent Solutions",
+      "contractSpan": "February 2022 – Ongoing",
+      "location": "Gabrovo, Bulgaria (Remote position)",
+      "position": "Front-End Developer",
+      "summary": "Worked on a project for a big American fashion brand cleaning frontend bugs after a successful migration to Salesforce. Another project I work on is about updating existing React based functionality of a company in the Finance and Insurance sector.",
+      "workDetails": [
+        "Helped develop React time tracking app hosted on Sharepoint website",
+        "Helped develop React file management app hosted on Sharepoint website",
+        "Supported existing solutions",
+        "Extended the features of existing apps",
+        "Created the design of new apps"
+      ],
+      "techAndTools": [
+        "React.js",
+        "React-Router",
+        "SCSS",
+        "Bootstrap",
+        "jQuery",
+        "JavaScript",
+        "Salesforce Business Manager",
+        "NVM",
+        "NPM",
+        "JSON",
+        "Git",
+        "Scrum Metodology"
+      ]
+    }
+  ]
+}
