@@ -2,7 +2,7 @@
 import './App.scss';
 import CV from './components/CV';
 import ReactToPdf from 'react-to-pdf';
-import { useRef } from 'react'
+import { useEffect, useRef } from 'react'
 
 function App() {
   const refCV = useRef();
@@ -10,8 +10,12 @@ function App() {
   const options = {
     orientation: 'p',
     unit: 'mm',
-    format: [211.32, 632.25]
+    format: [211.32, 0]
   }
+
+  useEffect(() => {
+    options.format[1] = (refCV.current.offsetHeight * 0.26458333).toFixed(2)
+  }, [])
 
   function discoModeOn() {
     bgRef.current.classList.add('disco-on');
